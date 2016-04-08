@@ -1,5 +1,5 @@
 # hello-world
-Excercise
+Make a self-intro
 
 I am a passionate and creative technologist and entrepreneur with over 20 years of technical leadership and expertise in artificial intelligence, enterprise software, and mobile device management.
 
